@@ -1,4 +1,4 @@
-/** @type {import('tailwindcss').Config} */ contr
+/** @type {import('tailwindcss').Config} */ contra
 module.exports = {
   content: [],
   theme: {
